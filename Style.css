@@ -1,0 +1,38 @@
+body{ background-color: #f4ffe4;
+font-family: arial, verdana,sans-serif;
+color:#333333;
+margin-left: auto;
+margin-right:auto;
+width:80%;}
+
+h1{background-color: #d5edb3;
+color: #5c743d;
+font-family: georgia, "Times New Roman", serif;
+line-height: 1.2 em;}
+
+h2{background-color: #d5edb3;
+color:#5c743d;
+font-family: georgia, "Times New Roman", serif;}
+
+nav{font-weight: bold;
+font-size: .75 em
+}
+
+nav ul{text-align: center}
+
+nav li{display: inline;
+padding-left: 10 px}
+
+footer{font-size: .75 em;
+font-style:italic;}
+
+footer nav ul{font-size: 1em;
+text-align: left;
+padding-left: 0
+}
+
+.companyname{font-weight: bold;
+font-family: georgia,"Times New Roman" serif;
+font-size: 1.25 em}
+
+img{border-style: none}
